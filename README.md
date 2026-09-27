@@ -51,3 +51,7 @@ kick-notifier-bot/
 <img width="568" height="75" alt="image" src="https://github.com/user-attachments/assets/bdd514f2-9c7e-410c-beec-b2d1d2fece65" />
 <img width="497" height="337" alt="image" src="https://github.com/user-attachments/assets/d0aa00da-9886-4eb8-87ae-70e2f5507478" />
 <img width="840" height="77" alt="image" src="https://github.com/user-attachments/assets/5734b150-8b68-49c6-97de-538d5d6db598" />
+<img width="505" height="76" alt="image" src="https://github.com/user-attachments/assets/a561afca-1058-474d-88ba-a4d66fcf88b3" />
+<img width="323" height="83" alt="image" src="https://github.com/user-attachments/assets/0178d9cf-8a99-41bb-af7f-6179f28ca24e" />
+<img width="490" height="75" alt="image" src="https://github.com/user-attachments/assets/6e9a7b27-342f-4574-a5a3-08552b7120ef" />
+
