@@ -1,3 +1,5 @@
+# 10 Star'da Sizindir <3
+
 # 🟩 Kick Discord Yayın Bildirim Botu
 
 <p align="center">
