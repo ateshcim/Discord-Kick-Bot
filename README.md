@@ -41,7 +41,7 @@ kick-notifier-bot/
 ├── index.js
 ├── package.json
 └── README.md
-
+```
 
 
 
